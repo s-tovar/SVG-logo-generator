@@ -1,0 +1,15 @@
+{
+    "name": "svg-logo-generator",
+    "version": "1.0.0",
+    "description": "a command-line app that creates a simgle SVG logo",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.5"
+    },
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
