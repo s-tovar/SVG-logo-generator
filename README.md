@@ -10,7 +10,7 @@ goes here:
 
 ## Technologies Used 
 
-This application is powered by Node.js v16, utilizes inquirer v88.2.4 and file system module. t also employs jest v29.5.0 for the testing conducted in this application. 
+This application is powered by Node.js v16, utilizes inquirer v88.2.4 and file system module. It also employs jest v29.5.0 for the testing conducted in this application. 
 
 ## Installation
 
