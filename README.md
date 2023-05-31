@@ -6,7 +6,7 @@ This application was built to allow freelance web developers create simple logo 
 
 ## Live Screen Recording of Application Functionality
 
-goes here:
+Link to recording: https://drive.google.com/file/d/1LzqNIVyONCciQZ5p3JNUVeZMQJkTKuW_/view
 
 ## Technologies Used 
 
@@ -29,6 +29,8 @@ To run the application, type the command (node index.js).
 To run this application, use the command line to navigate to the directory of the application, install all dependencies and type the command (node index.js). You prompted to a series of questions. Once all questions have been answered, a message will display to the command line telling you you logo has been generated. The new logo will be generated in the logo.svg file. 
 
 ## Tests
+
+![plot](./lib/assets/Screenshot%202023-05-30%20at%2010.46.45%20PM.png)
 
 To run testing, open the Terminal and use the command (npm run test).
 
